@@ -125,9 +125,11 @@ Track skill upgrades and unlockable features
 
 ## Wireframes
 
+## Report
 
 [QuestLog_RPG_Application_Report (1).docx](https://github.com/user-attachments/files/20968498/QuestLog_RPG_Application_Report.1.docx)
 
+## Lit Review
 
 [Literature Review (1).docx](https://github.com/user-attachments/files/20968593/Literature.Review.1.docx)
 
