@@ -20,8 +20,8 @@ Pixel Art Interface: Navigate a nostalgic pixel RPG world, including: Tavern/Dai
 Mind Spire is more than a to-do list—it's a game where productivity earns power. Users engage with a fantasy interface to: Organize tasks as quests (e.g., "Math Homework → Defeat the Algebra Hobgoblin Shaman")
 Earn XP, level up, and track stats like focus, energy, and completion rate (GPA calculation)
 
-5. [Wireframes](#Wireframes)( )
-Please see the link above.
+5. [Wireframes](https://github.com/RichardHall57/Quest-ReLife/blob/main/Learnoria%20Academia%20Wireframe.png)( )
+
 
 ### Description
 
